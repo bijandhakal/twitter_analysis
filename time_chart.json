@@ -1,0 +1,2321 @@
+{
+  "axes": [
+    {
+      "scale": "x",
+      "title": "Time",
+      "type": "x"
+    },
+    {
+      "scale": "y",
+      "title": "Freq",
+      "type": "y"
+    }
+  ],
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {
+          "col": "pythons",
+          "idx": 1462849620000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462849620000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462849620000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462849620000,
+          "val": 1.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462849680000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462849680000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462849680000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462849680000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462849740000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462849740000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462849740000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462849740000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462849800000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462849800000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462849800000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462849800000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462849860000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462849860000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462849860000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462849860000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462849920000,
+          "val": 3.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462849920000,
+          "val": 1.0
+        },
+        {
+          "col": "java",
+          "idx": 1462849920000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462849920000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462849980000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462849980000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462849980000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462849980000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850040000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850040000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850040000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850040000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850100000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850100000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850100000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850100000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850160000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850160000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850160000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850160000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850220000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850220000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850220000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850220000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850280000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850280000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850280000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850280000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850340000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850340000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850340000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850340000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850400000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850400000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850400000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850400000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850460000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850460000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850460000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850460000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850520000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850520000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850520000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850520000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850580000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850580000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850580000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850580000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850640000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850640000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850640000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850640000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850700000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850700000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850700000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850700000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850760000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850760000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850760000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850760000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850820000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850820000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850820000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850820000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850880000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850880000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850880000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850880000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462850940000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462850940000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462850940000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462850940000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851000000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851000000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851000000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851000000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851060000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851060000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851060000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851060000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851120000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851120000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851120000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851120000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851180000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851180000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851180000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851180000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851240000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851240000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851240000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851240000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851300000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851300000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851300000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851300000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851360000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851360000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851360000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851360000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851420000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851420000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851420000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851420000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851480000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851480000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851480000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851480000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851540000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851540000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851540000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851540000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851600000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851600000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851600000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851600000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851660000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851660000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851660000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851660000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851720000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851720000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851720000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851720000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851780000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851780000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851780000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851780000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851840000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851840000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851840000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851840000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851900000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851900000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851900000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851900000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462851960000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462851960000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462851960000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462851960000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852020000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852020000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852020000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852020000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852080000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852080000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852080000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852080000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852140000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852140000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852140000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852140000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852200000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852200000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852200000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852200000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852260000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852260000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852260000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852260000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852320000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852320000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852320000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852320000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852380000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852380000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852380000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852380000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852440000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852440000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852440000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852440000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852500000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852500000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852500000,
+          "val": 1.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852500000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852560000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852560000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852560000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852560000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852620000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852620000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852620000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852620000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852680000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852680000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852680000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852680000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852740000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852740000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852740000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852740000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852800000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852800000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852800000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852800000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852860000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852860000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852860000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852860000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852920000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852920000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852920000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852920000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462852980000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462852980000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462852980000,
+          "val": 1.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462852980000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853040000,
+          "val": 3.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853040000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853040000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853040000,
+          "val": 1.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853100000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853100000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853100000,
+          "val": 1.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853100000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853160000,
+          "val": 3.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853160000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853160000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853160000,
+          "val": 1.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853220000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853220000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853220000,
+          "val": 1.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853220000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853280000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853280000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853280000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853280000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853340000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853340000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853340000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853340000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853400000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853400000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853400000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853400000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853460000,
+          "val": 6.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853460000,
+          "val": 1.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853460000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853460000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853520000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853520000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853520000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853520000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853580000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853580000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853580000,
+          "val": 1.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853580000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853640000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853640000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853640000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853640000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853700000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853700000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853700000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853700000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853760000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853760000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853760000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853760000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853820000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853820000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853820000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853820000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853880000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853880000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853880000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853880000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462853940000,
+          "val": 3.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462853940000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462853940000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462853940000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854000000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854000000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854000000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854000000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854060000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854060000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854060000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854060000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854120000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854120000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854120000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854120000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854180000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854180000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854180000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854180000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854240000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854240000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854240000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854240000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854300000,
+          "val": 3.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854300000,
+          "val": 2.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854300000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854300000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854360000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854360000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854360000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854360000,
+          "val": 1.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854420000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854420000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854420000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854420000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854480000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854480000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854480000,
+          "val": 1.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854480000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854540000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854540000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854540000,
+          "val": 1.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854540000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854600000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854600000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854600000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854600000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854660000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854660000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854660000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854660000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854720000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854720000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854720000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854720000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854780000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854780000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854780000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854780000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854840000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854840000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854840000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854840000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854900000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854900000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854900000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854900000,
+          "val": 1.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462854960000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462854960000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462854960000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462854960000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855020000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855020000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855020000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855020000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855080000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855080000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855080000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855080000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855140000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855140000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855140000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855140000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855200000,
+          "val": 3.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855200000,
+          "val": 2.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855200000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855200000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855260000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855260000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855260000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855260000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855320000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855320000,
+          "val": 1.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855320000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855320000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855380000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855380000,
+          "val": 1.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855380000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855380000,
+          "val": 1.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855440000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855440000,
+          "val": 1.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855440000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855440000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855500000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855500000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855500000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855500000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855560000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855560000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855560000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855560000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855620000,
+          "val": 3.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855620000,
+          "val": 2.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855620000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855620000,
+          "val": 1.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855680000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855680000,
+          "val": 1.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855680000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855680000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855740000,
+          "val": 5.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855740000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855740000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855740000,
+          "val": 1.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855800000,
+          "val": 4.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855800000,
+          "val": 2.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855800000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855800000,
+          "val": 1.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855860000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855860000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855860000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855860000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855920000,
+          "val": 3.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855920000,
+          "val": 1.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855920000,
+          "val": 1.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855920000,
+          "val": 1.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462855980000,
+          "val": 0.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462855980000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462855980000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462855980000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462856040000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462856040000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462856040000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462856040000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462856100000,
+          "val": 3.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462856100000,
+          "val": 1.0
+        },
+        {
+          "col": "java",
+          "idx": 1462856100000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462856100000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462856160000,
+          "val": 2.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462856160000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462856160000,
+          "val": 1.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462856160000,
+          "val": 0.0
+        },
+        {
+          "col": "pythons",
+          "idx": 1462856220000,
+          "val": 1.0
+        },
+        {
+          "col": "datascience",
+          "idx": 1462856220000,
+          "val": 0.0
+        },
+        {
+          "col": "java",
+          "idx": 1462856220000,
+          "val": 0.0
+        },
+        {
+          "col": "programming",
+          "idx": 1462856220000,
+          "val": 0.0
+        }
+      ]
+    }
+  ],
+  "height": 500,
+  "legends": [
+    {
+      "fill": "color",
+      "offset": 0,
+      "properties": {},
+      "title": "hashtags"
+    }
+  ],
+  "marks": [
+    {
+      "from": {
+        "data": "table",
+        "transform": [
+          {
+            "keys": [
+              "data.col"
+            ],
+            "type": "facet"
+          }
+        ]
+      },
+      "marks": [
+        {
+          "properties": {
+            "enter": {
+              "stroke": {
+                "field": "data.col",
+                "scale": "color"
+              },
+              "strokeWidth": {
+                "value": 2
+              },
+              "x": {
+                "field": "data.idx",
+                "scale": "x"
+              },
+              "y": {
+                "field": "data.val",
+                "scale": "y"
+              }
+            }
+          },
+          "type": "line"
+        }
+      ],
+      "type": "group"
+    }
+  ],
+  "padding": "auto",
+  "scales": [
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.idx"
+      },
+      "name": "x",
+      "range": "width",
+      "type": "time"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.val"
+      },
+      "name": "y",
+      "nice": true,
+      "range": "height"
+    },
+    {
+      "domain": {
+        "data": "table",
+        "field": "data.col"
+      },
+      "name": "color",
+      "range": "category20",
+      "type": "ordinal"
+    }
+  ],
+  "width": 960
+}
